@@ -47,10 +47,15 @@ Before creating the dashboard, the data needs to be prepared properly. This stag
  Report 1 Description:
 
 1.This dashboard provides an overview of Blinkit's sales performance, including total sales of 472.13K and average sales of 140.94.
+
 2.A total of 3,350 items are sold, with an average customer rating of 3.92.
+
 3.The Outlet Establishment chart shows that sales increased significantly from 2010 to 2015 and remained stable afterward.
+
 4.The Fat Content analysis shows that Regular Fat products contribute more sales (2.17K) than Low Fat products (1.18K).
+
 5.The Outlet Size analysis indicates that Medium-sized outlets have the highest contribution, followed by Small and High-sized outlets.
+
 6.The Item Type analysis shows that Fruits and Vegetables (71K) and Snack Foods (69K) are the top-selling categories.
 Overall, the dashboard helps identify top-performing product categories, outlet characteristics, and important sales trends to support better business decisions.
 
